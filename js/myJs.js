@@ -3,14 +3,14 @@ const textConfig = {
   text2: "Tui có điều này muốn hỏi Tiên nhớ phải trả lời thật lòng nhaaa.",
   text3: "Tiên làm ny tui nha  ._.",
   text4: "Nếu Tiên ko trả lời mà thoát ra tức là muốn làm ny tui rùi đó nha :v",
-  text5: "Khom nha :))",
-  text6: "Iu og nhèo nhèo :))",
-  text7: "Sao Tiên iu tui vại. :vvvv",
+  text5: "Không nha :))",
+  text6: "Thích og nhèo nhèo :))",
+  text7: "Sao Tiên thích tui vại. :vvvv",
   text8: "Gửi cho tui di <3",
   text9: "Vì og đẹp try vlllll",
-  text10: "Iu Tiên quá luôn ó",
+  text10: "Bà biết tui vì cái gì như thế thích khi dễ bà sao?;Biết tui tại sao luôn là đùa giỡn bà sao?;Biết tui vì cái gì thích tìm bà gây chuyện sao?",
   text11:
-    "Làm ny tui lun nha :DDDDDDDDDDDDD",
+    "Quỷ mới biết, tui vậy mà thích bà, không có bất kỳ cái gì lý do, cứ như vậy thích! Tui đây cũng không có nói láo, mặc kệ bà tin hay không, tui đều sẽ nói cho bà biết, tui nói chính là nói thật!",
   text12: "Okii lunn <3",
 };
 
