@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì og đẹp try vlllll",
   text10: "Bà biết tui vì cái gì như thế thích khi dễ bà sao?Biết tui tại sao luôn là đùa giỡn bà sao?Biết tui vì cái gì thích tìm bà gây chuyện sao?",
   text11:
-    "Quỷ mới biết a, tui vậy mà thích bà, không có bất kỳ cái gì lý do, cứ như vậy thích! Tui đây cũng không có nói láo, mặc kệ bà tin hay không, tui đều sẽ nói cho bà biết, tui nói chính là nói thật!Bà có thể làm ny tui ko?",
+    "Quỷ mới biết a,tui vậy mà thích bà, không có bất kỳ cái gì lý do, cứ như vậy thích! Tui đây cũng không có nói láo, mặc kệ bà tin hay không, tui đều sẽ nói cho bà biết, tui nói chính là nói thật!Bà có thể làm ny tui ko?",
   text12: "Okii lunn <3",
 };
 
